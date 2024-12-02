@@ -1,0 +1,54 @@
+@charset "UFT-8";
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-image: url("matematica2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 290px;
+    width: 2100px;
+    top: 30%;
+    left: -10%;
+    position: relative;
+    
+}
+
+.p1{
+text-align: center;
+color: white;
+position: relative;
+top: 30%;
+left: 0%;
+font-size: 8em;
+}
+
+nav{
+    text-align: justify;
+    background-color: black;
+    
+   
+}
+
+nav a{
+    text-decoration: none;
+    margin-left: 200px;
+    color: white;
+    font-size: 2em;
+}
+.p2{
+    margin-bottom: 40px;
+}
+
+p{
+    font-size: 1.5em;
+}
+
+h1{
+    font-size: 2em;
+    
+}
